@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "@types/sqlite3": "^3.1.11",
+    "echarts": "^5.6.0",
+    "sqlite3": "^5.1.7",
+    "vue-echarts": "^7.0.3"
+  },
+  "devDependencies": {
+    "@nestjs/testing": "^11.0.9",
+    "@types/jest": "^29.5.14",
+    "@types/supertest": "^6.0.2",
+    "jest": "^29.7.0",
+    "supertest": "^7.0.0",
+    "ts-jest": "^29.2.5"
+  }
+}
